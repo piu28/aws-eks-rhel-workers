@@ -3,6 +3,7 @@
 ## Setup
 * Red Hat Enterprise Linux 7.5
 <img src="./images/aws-rhel.png"/>
+
 * Kubernetes 1.12.7 on AWS EKS
 
 ## Workflow
